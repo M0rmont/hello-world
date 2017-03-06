@@ -1,3 +1,3 @@
 # hello-world
-Just another nickel and dime repository
-New to GitHub, so nothing else to add really
+Just another nickel and dime repository.
+New to GitHub, so nothing else to add really, but have a nice day :)
