@@ -1,3 +1,2 @@
 # hello-world
-Just another nickel and dime repository.
-New to GitHub, so nothing else to add really, but have a nice day :)
+So, it's like this, if Mickey's a mouse, Donald's a duck, and Pluto's a dog.  What's Goofy?
